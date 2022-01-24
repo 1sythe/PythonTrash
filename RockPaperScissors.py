@@ -1,4 +1,4 @@
-# Rock paper scissors game gui game written in python with tkinter by kiisuhh#2750
+# Rock paper scissors  gui game written in python with tkinter by kiisuhh#2750
 
 import tkinter as tk
 from random import randrange
